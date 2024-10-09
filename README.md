@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @bhattdpac
+- 👋 Hi, I’m Deepak bhatt
 - 👀 I’m interested in coding and web development
 - 🌱 I’m currently learning machine learning with use cases in AI
 - 💞️ I’m looking to collaborate on Machine Learning 
