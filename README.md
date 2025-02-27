@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Deepak bhatt
 
-[![An image of @bhattdpac's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhattdpac)
+![An image of @bhattdpac's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhattdpac)
 
 <!---
 bhattdpac/bhattdpac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
